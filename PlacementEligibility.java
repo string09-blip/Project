@@ -6,6 +6,6 @@ Scanner sc = new Scanner(Systen.in) ;
 try{
     System.out.print("Enter student name: ");
     String name = sc.nextLine();
-    Sysytem
+    System
 }   
 }
