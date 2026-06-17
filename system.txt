@@ -2,7 +2,4 @@ Hello everyone,
 My name is Swati Sinha.
 I am from Bihar.
 Currently I am pursuing bachelor of technology in computer science engineering as my branch from Tecnocrats Institue Of technology.
-Hello everyone,
-My name is Swati Sinha.
-I am from Bihar.
-Currently I am pursuing bachelor of technology in computer science engineering as my branch from Tecnocrats Institue Of technology.
+

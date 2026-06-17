@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class readfile {
     public static void main(String[] args) {
         try{
-            File file=new File("C:\\Users\\tanvi\\OneDrive\\Attachments\\java\\sample.txt");
+            File file=new File("C:\\Users\\sw459\\OneDrive\\Desktop\\java practice\\system.txt");
             Scanner reader=new Scanner(file);
             while(reader.hasNextLine()){
                 String data= reader.nextLine();
